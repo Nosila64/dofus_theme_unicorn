@@ -1,7 +1,6 @@
-[
     {
         "author" : "Nosila", 
-        "name" : "ThemeLikrone", 
+        "name" : "themelikrone", 
         "keyWords" : "unicorn",
         "version" : "1.0.0",
         "dofusVersion" : "2.45", 
@@ -11,4 +10,3 @@
         "creationDate" : "24/01/2018", 
         "modificationDate" : "06/02/2018"
     } 
-]
